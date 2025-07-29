@@ -15,6 +15,7 @@ function Contact() {
       display: 'flex',
       justifyContent: 'center',
       alignItems: 'center',
+      overflow: 'hidden',
     },
     overlay: {
       position: 'absolute',

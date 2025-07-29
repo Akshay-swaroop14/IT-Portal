@@ -11,6 +11,7 @@ function Dashboard() {
     page: {
       minHeight: '100vh',
       fontFamily: 'Arial, sans-serif',
+      overflow: 'hidden',
     },
     contentSection: {
       paddingTop: '80px', 

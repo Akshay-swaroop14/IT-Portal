@@ -275,7 +275,7 @@ function RegisterForm() {
       borderRadius: '16px',
       padding: '40px',
       maxWidth: '380px',
-      width: '100%',
+      width: '90%',
       boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.5)',
       backdropFilter: 'blur(15px)',
       WebkitBackdropFilter: 'blur(15px)',

@@ -345,7 +345,7 @@ function LoginForm() {
 
         <p style={styles.toggle}>
           Don't have an account?{' '}
-          <span style={styles.link} onClick={() => navigate('/register')}>Register now</span>
+          <span style={styles.link} onClick={() => navigate('/')}>Register now</span>
         </p>
       </form>
     </div>
