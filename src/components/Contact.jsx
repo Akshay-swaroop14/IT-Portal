@@ -63,7 +63,7 @@ function Contact() {
         <p style={styles.paragraph}>Have questions or feedback?</p>
         <p style={styles.paragraph}>Reach out to our IT team for any support or queries.</p>
         <p style={styles.paragraph}>
-          Email us at: <a href="mailto:it.support@verifacts.com" style={styles.email}>it.support@verifacts.com</a>
+          Email us at: <a href="mailto:it.support@verifacts.com" style={styles.email}>it.support@verifacts.co.in</a>
         </p>
         <p style={styles.paragraph}>Office Hours: Mon - Fri | 9:30 AM - 6:30 PM</p>
       </div>

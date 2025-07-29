@@ -55,7 +55,7 @@ function Navbar({ handleLogout }) {
         </div>
 
         <div style={styles.links}>
-          <Link to="/" style={styles.link}>Home</Link>
+          <Link to="/dashboard" style={styles.link}>Home</Link>
           <Link to="/about" style={styles.link}>About Us</Link>
           <Link to="/team" style={styles.link}>Our Team</Link>
           <Link to="/projects" style={styles.link}>Projects</Link>

@@ -544,7 +544,7 @@ function Team() {
     {
       name: 'Jagannadh',
       role: 'IT Support',
-      image: '/assets/jgn.jpg',
+      image: '/assets/jaga.jpg',
       skills: 'Troubleshooting, Hardware, Networks',
     },
     {
