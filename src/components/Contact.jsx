@@ -5,12 +5,12 @@ function Contact() {
   const styles = {
     page: {
       position: 'relative',
-      backgroundImage: 'url("/assets/col.png")', // updated path
+      backgroundImage: 'url("/assets/col.png")',
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       backgroundRepeat: 'no-repeat',
       minHeight: '100vh',
-      paddingTop: '100px', // offset for navbar
+      paddingTop: '100px', 
       fontFamily: 'Arial, sans-serif',
       display: 'flex',
       justifyContent: 'center',
@@ -22,7 +22,7 @@ function Contact() {
       left: 0,
       height: '100%',
       width: '100%',
-      backgroundColor: 'rgba(255, 255, 255, 0.4)', // light transparent white overlay
+      backgroundColor: 'rgba(255, 255, 255, 0.4)',
       zIndex: 1,
     },
     content: {
