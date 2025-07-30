@@ -146,12 +146,16 @@ function Projects() {
   ];
 
   const styles = {
-    page: {
-      paddingTop: '100px',
-      backgroundColor: '#f0f8ff',
-      minHeight: '100vh',
-      fontFamily: 'Arial, sans-serif',
-    },
+   page: {
+  paddingTop: '100px',
+  minHeight: '100vh',
+  fontFamily: 'Arial, sans-serif',
+  backgroundImage: "url('/assets/')", 
+  backgroundSize: 'cover',
+  backgroundPosition: 'center',
+  backgroundRepeat: 'no-repeat',
+  backgroundAttachment: 'fixed', 
+},
     heading: {
       textAlign: 'center',
       fontSize: '32px',

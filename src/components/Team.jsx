@@ -550,7 +550,7 @@ function Team() {
     {
       name: 'Basavaraj',
       role: 'IT Support',
-      image: '/assets/bas.jpg',
+      image: '/assets/basa.jpg',
       skills: 'Troubleshooting, Hardware, Networks',
     }
   ];
@@ -558,8 +558,8 @@ function Team() {
   const styles = {
     page: {
       paddingTop: '100px',
-     // backgroundImage: 'url("/assets/vi.png")', 
-     // backgroundSize: 'cover',
+      backgroundImage: 'url("/assets/logos.png")', 
+      backgroundSize: 'cover',
       backgroundPosition: 'center',
       backgroundRepeat: 'no-repeat',
       minHeight: '100vh',

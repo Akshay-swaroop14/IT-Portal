@@ -29,7 +29,7 @@ function About() {
       margin: '0 auto',
       marginTop: '50px',
       padding: '40px',
-      backgroundColor: 'rgba(255, 255, 255, 0.86)',
+      backgroundColor: 'rgba(255, 233, 200, 0.78)',
       borderRadius: '12px',
       textAlign: 'center',
     },

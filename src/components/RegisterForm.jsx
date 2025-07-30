@@ -262,7 +262,7 @@ function RegisterForm() {
   const styles = {
     page: {
       minHeight: '100vh',
-      backgroundImage: 'url("/assets/vi.png")',
+      backgroundImage: 'url("/assets/img.png")',
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       display: 'flex',
